@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba4", "laba4\laba4.csproj", "{659CE36D-033C-439A-BDEE-C053B17A42B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4.1", "lab4.1\lab4.1.csproj", "{2A9CD039-8F06-49B3-8CB8-6D09AE7887D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labarat4.2", "labarat4.2\labarat4.2.csproj", "{DF9FD530-684F-4BCF-BFAB-3D7365F3B815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659CE36D-033C-439A-BDEE-C053B17A42B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659CE36D-033C-439A-BDEE-C053B17A42B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659CE36D-033C-439A-BDEE-C053B17A42B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659CE36D-033C-439A-BDEE-C053B17A42B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9CD039-8F06-49B3-8CB8-6D09AE7887D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9CD039-8F06-49B3-8CB8-6D09AE7887D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9CD039-8F06-49B3-8CB8-6D09AE7887D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9CD039-8F06-49B3-8CB8-6D09AE7887D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9FD530-684F-4BCF-BFAB-3D7365F3B815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9FD530-684F-4BCF-BFAB-3D7365F3B815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9FD530-684F-4BCF-BFAB-3D7365F3B815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9FD530-684F-4BCF-BFAB-3D7365F3B815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF9F2D7-2D58-4DE2-8DCF-9CEFA8DDC421}
+	EndGlobalSection
+EndGlobal
